@@ -19,7 +19,7 @@ description: |
   Wonder Wander Waltz. Musings, music, and the mess...
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: https://blogbox.netlify.app
+url: 
 
 # The subpath of your site, if you want to host your path on a subpath like on GitHub Pages. e.g. /blog
 baseurl: "/www-blog"
@@ -30,11 +30,11 @@ sass:
 # Site navigation - each item must have a title and a url.
 navigation:
 - text: Home
-  url: /
+  url: /www-blog/
 - text: About/Contact
-  url: /about/
+  url: /www-blog/about/
 - text: Archives
-  url: /tags/
+  url: /www-blog/tags/
 
 # Author information - author info at the bottom of the post
 author_name: "Abhiram Bhanuprakash"
