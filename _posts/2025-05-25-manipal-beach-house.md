@@ -6,7 +6,7 @@ date:   2025-05-25
 tags: [Travel, Manipal, "2024"]
 ---
 
-![](/www-blog/images/posts/manipal2024/manipal_BeachHouse.jpg)
+![](www-blog/images/posts/manipal2024/manipal_BeachHouse.jpg)
 
 November 2024. A clear moonlit night at a beach house near Manipal on the picturesque Karnataka coastline – indeed an enviable setting. But what made the night most charming was the fact that I was with three people very dear to my heart – my cousin Goutham Dikshith, my uncle Gananath Dikshith (fondly Gana uncle), and my high school friend and distinguished radiologist Dr. Praveen Shastry, who I was seeing in person after ages.
 
