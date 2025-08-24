@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Manipal beach house"
+date:   2025-05-25
+# featured_image: grand-canyon.jpg
+tags: [Travel, Manipal, "2024"]
+---
+
+![](/images/posts/manipal2024/manipal_BeachHouse.jpg)
+
+November 2024. A clear moonlit night at a beach house near Manipal on the picturesque Karnataka coastline – indeed an enviable setting. But what made the night most charming was the fact that I was with three people very dear to my heart – my cousin Goutham Dikshith, my uncle Gananath Dikshith (fondly Gana uncle), and my high school friend and distinguished radiologist Dr. Praveen Shastry, who I was seeing in person after ages.
+
+The bus journey to Manipal from my hometown Mysuru (Mysore) the previous night had not been a very pleasant one, and a dose of a good night’s sleep probably would have been “the doctor’s prescription”. Yet I was invigorated by the sheer rarity of the moment. Lots of things to talk about, so little time – the crashing and swashing of the Arabian sea on the rocks nearby merely symbolised all the emotions and thoughts wanting to gush out of me. 
+
+<!--more-->
+
+In this backdrop, Goutham and I recollected loads of childhood memories, especially watching movies and listening to music with Gana uncle and learning so many things – history, art, science – along the way. Gana uncle is an artist himself, and he was a lecturer in interior design. We talked about how lucky we were to get such a unique exposure from spending time with uncle during childhood. With the advantage of hindsight, we could now see what a profound impact it had on our thoughts and world view. To this day, uncle loves spending time with children in the neighbourhood, engaging them in art, craft and gardening, and we love him for that!
+
+Although I don’t recall the chronological order of events, at some point the conversation moved to my PhD research field, music technology. While the technical discussion probably deserves a blog post in itself, some of the more general thoughts that emerged were so profound that I wish to mull on these and my more recent musings here. Praveen asked me what made me do a PhD in music technology, which indeed is not normally the first choice of an engineering graduate. On the night, I probably barely managed to articulate why I was passionate about it. Here I must admit I was helped by the fact that an artist was sitting right next to me! 
+
+However, this gave me great food for thought later. I am pretty sure there are many more engineering graduates who love music or other arts, and perhaps even perform them in their spare time. But then why don’t more people choose to apply engineering skills to make tools for artists, or study the science behind the art, e.g.: musical acoustics? What makes fields at the intersection of science, technology and art, like music technology or bio art, still fringe, and not so “hot”?
+
+I think a large part of conventional thinking of STEM graduates, their parents and the society at large, stems from the world view that projects science/applied science – more specifically, a few hot fields such as AI, robotics, neuroscience, medicine, etc. – as more important/relevant than the arts and humanities and related disciplines. Frankly I admit I used to have such views before taking up music technology myself. These views are so common today that they are kind of normalised in society. But this does not make them true.
+
+I start by asking why such views became prevalent in the first place. With my limited knowledge of history, I hazard a guess that it could be because of a huge emphasis on hot STEM fields in schools accompanied by the hundreds of billions of dollars invested in these fields in recent years. These in turn were perhaps prompted by the coaction of two otherwise conflicting forces: (a) the drive to save and improve human lives, and (b) nationalism and defence (the World Wars, the Cold War and the ensuing arms race). Going back even further, we can even bring in the industrial revolution, and the Enlightenment itself. The recent rise of AI has only strengthened such “science is more important” notions. 
+
+But what do we achieve by improving human life expectancy and quality? Isn’t it a fact that humans have destroyed entire ecosystems on earth and are responsible for multiple species to go extinct? Hasn’t human activity accelerated climate change and pushed the planet itself to the brink of an apocalypse? Doesn’t nuclear weapon stockpiling pose a threat of self-annihilation? Further, isn’t AI presenting society several challenges that we just don’t know how to deal with? Goutham is an accountant in one of the Big Four firms, and is rightly worried that AI might take away his job in the near future.
+
+I have learnt that a cosmic perspective could often help put things into the widest context. In the brilliant words of Carl Sagan ( <a href="https://www.planetary.org/worlds/pale-blue-dot">Pale Blue Dot</a> , 1994), *“Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.”* In my own not-so-dignified words, the Universe doesn’t give a rat’s (or perhaps in this case, a human’s) about the survival of humanity.
+
+In the face of such crises, don’t we have a thing or two to learn from history? Knowledge of the mistakes of the past could guide us to not repeat them, act quickly and avert disaster. In this era of social media-based disinformation campaigns, it is ever more important to critically understand and interpret human behaviour, and a study of the humanities and social sciences would teach us precisely this. In a rapidly polarising world, policymaking needs to become much more rational, and we can greatly benefit from policymakers well-educated in political science.
+
+Global unity and peace would form a solid foundation to tackle crises as one civilisation. Music, the universal language, and the other arts can foster a sense of togetherness by helping us realise a simple truth – that all our differences exist only in our heads. Isn’t it worth saving human lives simply *because* we can do beautiful art? In other words, don’t the arts give meaning and motivation to science and scientific endeavour?
+
+Without science, we wouldn’t have knowledge about physical reality, and human civilisation will likely stagnate and eventually decline (as predicted by Isaac Asimov in the phenomenal *Foundation* series). But without the arts, humanities, and social sciences (AHSS), we wouldn’t know how to think critically, interpret this knowledge rationally, and wield the power that comes with it in a responsible manner for the good of all. STEM education without critical thinking is like giving a blazing torch to a blind person – yes, they can keep themselves warm and comfortable with it, but may not realise that they are causing a wildfire with it as well, until it is too late.
+
+Thus, I see that both science and the AHSS are equally essential to humanity’s survival and progress. After all, both are just human knowledge that we see as separate entities just for the sake of convenience. I sincerely hope that education systems retune themselves to clearly highlight this to our future generations.
+
+I conclude by thanking Praveen for igniting that spark which inspired this post, and also for the tour of the awesome Manipal academy of higher education campus! It was a memorable trip for all the right reasons, and quite fitting for my first blog post! Looking forward to more such exciting trips soon.
