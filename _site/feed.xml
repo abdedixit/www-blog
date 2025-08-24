@@ -6,13 +6,20 @@
 </description>
         <link>http://localhost:4000/www-blog/</link>
         <atom:link href="http://localhost:4000/www-blog/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 Aug 2025 14:36:17 +0100</pubDate>
-        <lastBuildDate>Sun, 24 Aug 2025 14:36:17 +0100</lastBuildDate>
+        <pubDate>Sun, 24 Aug 2025 16:23:31 +0100</pubDate>
+        <lastBuildDate>Sun, 24 Aug 2025 16:23:31 +0100</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
                 <title>Manipal beach house</title>
-                <description>&lt;p&gt;&lt;img src=&quot;www-blog/images/posts/manipal2024/manipal_BeachHouse.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+                <description>&lt;!-- ![](/images/posts/manipal2024/manipal_BeachHouse.JPG) --&gt;
+&lt;!-- &lt;figure class=&quot;full-width&quot;&gt; --&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+    &lt;img src=&quot;/www-blog//images/posts/manipal2024/manipal_BeachHouse.JPG&quot; alt=&quot;&quot; /&gt;
+    
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;November 2024. A clear moonlit night at a beach house near Manipal on the picturesque Karnataka coastline – indeed an enviable setting. But what made the night most charming was the fact that I was with three people very dear to my heart – my cousin Goutham Dikshith, my uncle Gananath Dikshith (fondly Gana uncle), and my high school friend and distinguished radiologist Dr. Praveen Shastry, who I was seeing in person after ages.&lt;/p&gt;
 
