@@ -22,7 +22,7 @@ description: |
 url: 
 
 # The subpath of your site, if you want to host your path on a subpath like on GitHub Pages. e.g. /blog
-baseurl: "/www-blog"
+baseurl: ""
 
 sass:
   sass_dir: _sass
@@ -30,11 +30,11 @@ sass:
 # Site navigation - each item must have a title and a url.
 navigation:
 - text: Home
-  url: /www-blog/
+  url: /
 - text: About/Contact
-  url: /www-blog/about/
+  url: /about/
 - text: Archives
-  url: /www-blog/tags/
+  url: /tags/
 
 # Author information - author info at the bottom of the post
 author_name: "Abhiram Bhanuprakash"

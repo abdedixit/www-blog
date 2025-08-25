@@ -4,10 +4,10 @@
         <title>Wonder Wander Waltz</title>
         <description>Wonder Wander Waltz. Musings, music, and the mess...
 </description>
-        <link>http://localhost:4000/www-blog/</link>
-        <atom:link href="http://localhost:4000/www-blog/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 Aug 2025 16:23:31 +0100</pubDate>
-        <lastBuildDate>Sun, 24 Aug 2025 16:23:31 +0100</lastBuildDate>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 25 Aug 2025 20:54:45 +0100</pubDate>
+        <lastBuildDate>Mon, 25 Aug 2025 20:54:45 +0100</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -15,7 +15,7 @@
                 <description>&lt;!-- ![](/images/posts/manipal2024/manipal_BeachHouse.JPG) --&gt;
 &lt;!-- &lt;figure class=&quot;full-width&quot;&gt; --&gt;
 &lt;figure class=&quot;figure&quot;&gt;
-    &lt;img src=&quot;/www-blog//images/posts/manipal2024/manipal_BeachHouse.JPG&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/images/posts/manipal2024/manipal_BeachHouse.JPG&quot; alt=&quot;&quot; /&gt;
     
 &lt;/figure&gt;
 
@@ -45,15 +45,15 @@
 
 &lt;p&gt;Global unity and peace would form a solid foundation to tackle crises as one civilisation. Music, the universal language, and the other arts can foster a sense of togetherness by helping us realise a simple truth – that all our differences exist only in our heads. Isn’t it worth saving human lives simply &lt;em&gt;because&lt;/em&gt; we can do beautiful art? In other words, don’t the arts give meaning and motivation to science and scientific endeavour?&lt;/p&gt;
 
-&lt;p&gt;Without science, we wouldn’t have knowledge about physical reality, and human civilisation will likely stagnate and eventually decline (as predicted by Isaac Asimov in the phenomenal &lt;em&gt;Foundation&lt;/em&gt; series). But without the arts, humanities, and social sciences (AHSS), we wouldn’t know how to think critically, interpret this knowledge rationally, and wield the power that comes with it in a responsible manner for the good of all. STEM education without critical thinking is like giving a blazing torch to a blind person – yes, they can keep themselves warm and comfortable with it, but may not realise that they are causing a wildfire with it as well, until it is too late.&lt;/p&gt;
+&lt;p&gt;Without science, we wouldn’t have knowledge about physical reality, and human civilisation will likely stagnate and eventually decline (as predicted by Isaac Asimov in the phenomenal &lt;em&gt;Foundation&lt;/em&gt; series). But without the arts, humanities, and social sciences (AHSS), we wouldn’t know how to think critically, interpret this knowledge rationally, and wield the power that comes with it in a responsible manner for the good of all. STEM education without critical thinking is like giving a blazing torch to a blind person – yes, they may keep themselves warm and comfortable with it, but may not realise that they are causing a wildfire with it as well, until it is too late.&lt;/p&gt;
 
 &lt;p&gt;Thus, I see that both science and the AHSS are equally essential to humanity’s survival and progress. After all, both are just human knowledge that we see as separate entities just for the sake of convenience. I sincerely hope that education systems retune themselves to clearly highlight this to our future generations.&lt;/p&gt;
 
 &lt;p&gt;I conclude by thanking Praveen for igniting that spark which inspired this post, and also for the tour of the awesome Manipal academy of higher education campus! It was a memorable trip for all the right reasons, and quite fitting for my first blog post! Looking forward to more such exciting trips soon.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 25 May 2025 00:00:00 +0100</pubDate>
-                <link>http://localhost:4000/www-blog/2025/05/25/manipal-beach-house/</link>
-                <guid isPermaLink="true">http://localhost:4000/www-blog/2025/05/25/manipal-beach-house/</guid>
+                <link>http://localhost:4000/2025/05/25/manipal-beach-house/</link>
+                <guid isPermaLink="true">http://localhost:4000/2025/05/25/manipal-beach-house/</guid>
                 
                 <category>Travel</category>
                 
